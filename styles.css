@@ -1,0 +1,20 @@
+Ka'ribbean Nektar website
+
+How to deploy on Vercel without Git:
+1. Unzip this folder on your computer.
+2. Go to vercel.com and sign in.
+3. Click Add New -> Project.
+4. Look for the option to upload a project or drag-and-drop the folder.
+   If Vercel only shows Git import, use the Vercel CLI or upload this project to GitHub first.
+5. Framework preset: Vite
+6. Build command: npm run build
+7. Output directory: dist
+
+Local test:
+1. npm install
+2. npm run dev
+
+Important links already included:
+WhatsApp: https://wa.me/19042584289
+Phone: tel:9042584289
+Email: mailto:karibbeannektar@gmail.com
